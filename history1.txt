@@ -1,0 +1,164 @@
+[1,2,23}
+{1,23,3}
+type{1,2.23}
+type({1,3}
+)
+type
+type{"hair": True, "handsome": False, "height": 0.9}
+type({"hair": True, "handsome": False, "height": 0.9})
+{"name": "Yanbing", "sex": female, "age":18}
+{"name": "Yanbing", "sex": "female", "age":18}
+type({"name":"Yanbing"})
+yanbing = {"name": "Yanbing", "sex": "female", "age": 18})
+yanbing = {"name": "Yanbing", "sex": "female", "age": 18}
+yanbing?
+nice = (yanbing + sure)]
+nice = (yanbing + sure)
+nice = (yanbing + "sure")
+sure = {"hair": "gold", "height": 0.9}
+nice = (yanbing + sure)
+nice = yanbing, sure
+nice
+x = 3
+type(x)
+y = x +2
+y
+y = (2, True)
+y
+%whos
+yanbing[0]
+yanbing.values()
+yanbing
+yanbing.keys()
+yanbing.get("sex")
+yanbing.get("age")
+yanbing.get("age") >15
+type(yanbing.get("age" > 15))
+type(yanbing.get("age") > 15)
+yanbing.values(True)
+yanbing.values()
+yanbing.values?
+nice.values()
+sure.values()
+%history
+%history
+%history -f history.txt
+2
+3
+4
+_
+5
+_
+x = _
+type(x)
+_45
+-45
+_45
+yanbing.get(_)
+_4
+str(5)
+type(str(5))
+"4" +"5", 4 +5
+"yan" + "bing"
+"3" + str(9)
+"3"+ "9"
+True + False
+False + False
+True + True
+max()
+set()
+round
+round()
+round(7.6787)
+bool(sure)
+len(goodmorning)
+len(yanbing)
+len(sure)
+globals
+globals()
+3
+6
+7
+_
+_45
+_0
+_1
+_3
+_4
+_7
+_7({1:2}
+)
+_1{"yanbing"}
+_1({"yanbing"})
+dict({1:2})
+_7
+7
+_7({"yanbing"})
+%history -f history.txt
+abs()
+abs(1)
+abs(1.3456778)
+abs("yanbing")
+abs(-5)
+all()
+all(-0.6)
+all(list)
+all?
+float(3.5)
+float(1)
+float(1,6)
+round(1,7)
+round(1.67889999)
+ help(round)
+help(all)
+eval()
+eval(10.55)
+eval("5")
+eval(""morning)
+e
+eval("morning")
+eval("yanbing")
+filter("yanbing")
+filter("yanbing","sure")
+bytes("yanbing")
+bytes(yanbing)
+hex(15)
+hex(128)
+chr(yanbing)
+chr(8)
+slice?
+a[0:10:2]
+a = "bcdf"
+a[0:10:2]
+rang[10]
+rang(10)
+range(10)
+list(rang(10))
+list(range(10))
+type(list)
+list((0, True, a))
+(0, True, a)[5]
+(0, True, a)[2]
+list(a)
+type(list(a))
+type(a)
+yanbing.keys()
+list(yanbing.keys())
+l = list(yanbing.keys())
+l[0]
+yanbing["age"]
+yanbing[0]
+type(l)
+if True: 0
+1 = 1
+if True
+if True:
+    print("That makes sense")
+    That makes sense.
+That makes sense
+if True:
+    print("That makes sense")
+    That makes sense
+if True:
+    print("That makes sense")
+%history -f history1.txt
